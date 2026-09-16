@@ -1,6 +1,6 @@
 # Clinic Management System
 
-A C-based clinic management project developed as part of ITI Embedded Systems training.
+A C-based clinic management project developed as part of ITI embedded systems training.
 
 ## Overview
 
@@ -12,11 +12,9 @@ This project provides a simple console-based clinic management system implemente
 - `STD_TYPES.h` — Common standard type definitions used by the project.
 - `code vid.mp4` — Project demonstration video.
 
-## Team
+## Developer
 
-- Yousef Mahmoud Elsayed
-- Adel Wael Adel
-- Abdullah Mohammed Abdullah
+- Adel Wael
 
 ## Training
 
